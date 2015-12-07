@@ -23,8 +23,8 @@ def get_content(toUrl,count):
 
     headers = {
         'Cookie': cookie,
-        'Host':'www.zhihu.com',
-        'Referer':'http://www.zhihu.com/',
+        'Host':'http://www.wangdaizhijia.com/',
+        'Referer':'http://www.wangdaizhijia.com/',
         'User-Agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36',
         'Accept-Encoding':'gzip'
     }
